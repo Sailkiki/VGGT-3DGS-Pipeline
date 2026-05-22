@@ -110,9 +110,23 @@ python gaussian-splatting/metrics.py -m output/my_scene
 
 ## 引用
 
-本项目基于以下开源工作：
-- **VGGT** — Wang et al., "VGGT: Visual Geometry Grounded Transformer", CVPR 2025
-- **3D Gaussian Splatting** — Kerbl et al., "3D Gaussian Splatting for Real-Time Radiance Field Rendering", SIGGRAPH 2023
+本项目基于以下工作。
+
+**VGGT**
+
+Jianyuan Wang, Minghao Chen, Nikita Karaev, Andrea Vedaldi, Christian Rupprecht, David Novotny.  
+*VGGT: Visual Geometry Grounded Transformer.* CVPR 2025.
+
+- 论文: <https://arxiv.org/abs/2503.11651>
+- 代码: <https://github.com/facebookresearch/vggt>
+
+**3D Gaussian Splatting**
+
+Bernhard Kerbl, Georgios Kopanas, Thomas Leimkühler, George Drettakis.  
+*3D Gaussian Splatting for Real-Time Radiance Field Rendering.* ACM Trans. Graph. (SIGGRAPH 2023).
+
+- DOI: <https://doi.org/10.1145/3592433>
+- 代码: <https://github.com/graphdeco-inria/gaussian-splatting>
 
 ## 许可证
 
