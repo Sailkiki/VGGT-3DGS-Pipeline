@@ -110,7 +110,7 @@ python gaussian-splatting/metrics.py -m output/my_scene
 
 ## Citation
 
-This project builds on the following works. If you use this code, please also cite them:
+This project builds on the following works. 
 
 **VGGT**
 
