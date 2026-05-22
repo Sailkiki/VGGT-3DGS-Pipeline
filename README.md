@@ -128,6 +128,3 @@ Bernhard Kerbl, Georgios Kopanas, Thomas Leimkühler, George Drettakis.
 - DOI: <https://doi.org/10.1145/3592433>
 - Code: <https://github.com/graphdeco-inria/gaussian-splatting>
 
-## License
-
-Original code in this repository (scripts/ and modified files) is released under the MIT License. VGGT and 3DGS components retain their original licenses.
